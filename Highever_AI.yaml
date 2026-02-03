@@ -2,3 +2,4 @@ payload:
   # > claude
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,labs.google
+  - DOMAIN-SUFFIX,withgoogle.com
