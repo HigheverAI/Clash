@@ -1,0 +1,4 @@
+payload:
+  # > Sora
+  - DOMAIN-SUFFIX,sora.com
+  - DOMAIN,sora-cdn.oaistatic.com
