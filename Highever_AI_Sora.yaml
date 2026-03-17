@@ -1,4 +1,4 @@
 payload:
   # > Sora
-  - DOMAIN-SUFFIX,sora.com
+  - DOMAIN-SUFFIX,sora.chatgpt.com
   - DOMAIN,sora-cdn.oaistatic.com
