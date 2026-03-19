@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   # > Homedepot
   - DOMAIN-SUFFIX,www.homedepot.com
+  - DOMAIN-SUFFIX,homedepot.com
