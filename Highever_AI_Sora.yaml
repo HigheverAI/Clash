@@ -15,3 +15,5 @@ payload:
   # > Homedepot
   - DOMAIN-SUFFIX,www.homedepot.com
   - DOMAIN-SUFFIX,homedepot.com
+  # >godaddy
+  - DOMAIN-SUFFIX,godaddy.com
