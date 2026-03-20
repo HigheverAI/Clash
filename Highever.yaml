@@ -15,5 +15,3 @@ payload:
   - DOMAIN-SUFFIX,hornbach.de
   # >tielu
   - DOMAIN-SUFFIX,amtrak.com
-  # >godaddy
-  - DOMAIN-SUFFIX,godaddy.com
