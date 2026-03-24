@@ -2,10 +2,6 @@ payload:
   # Sora core
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN,sora-cdn.oaistatic.com
-
-  - DOMAIN,ab.chatgpt.com
-  - DOMAIN,ws.chatgpt.com
-
   # Sora media/object domains
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oaistatic.com
