@@ -15,7 +15,5 @@ payload:
   - DOMAIN-SUFFIX,hornbach.de
   # >tielu
   - DOMAIN-SUFFIX,amtrak.com
-  # >homedepot
-  - DOMAIN-SUFFIX,homedepot.com
     # >immtele
   - DOMAIN-SUFFIX,immtele.com
