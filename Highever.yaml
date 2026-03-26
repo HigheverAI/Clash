@@ -21,3 +21,5 @@ payload:
    - DOMAIN-SUFFIX,homedepot.com
   # >godaddy
   - DOMAIN-SUFFIX,godaddy.com
+  # >duravit.us
+  - DOMAIN-SUFFIX,duravit.us
