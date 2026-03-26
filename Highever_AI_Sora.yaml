@@ -10,8 +10,3 @@ payload:
   # Sora media/object domains
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oaistatic.com
-
-  # homedepot
-   - DOMAIN-SUFFIX,homedepot.com
-  # >godaddy
-  - DOMAIN-SUFFIX,godaddy.com
