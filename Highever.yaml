@@ -27,5 +27,5 @@ payload:
   - DOMAIN-SUFFIX,wayfair.com
   # > directpay.irs.gov
   - DOMAIN-SUFFIX, directpay.irs.gov
-  # > imango.de
-  - DOMAIN-SUFFIX, imango.de
+  # > limango.de
+  - DOMAIN-SUFFIX, limango.de
