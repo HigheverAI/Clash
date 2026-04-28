@@ -1,3 +1,5 @@
 payload:
   # > limango.de
   - DOMAIN-SUFFIX,limango.de
+  # > home24.de
+  - DOMAIN-SUFFIX,home24.de
