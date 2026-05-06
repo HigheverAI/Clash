@@ -35,3 +35,11 @@ payload:
   - DOMAIN-SUFFIX, kohls.com
   # >pinterest.com
   - DOMAIN-SUFFIX, pinterest.com
+  # >DISCORD
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discordcdn.com
+  - DOMAIN-SUFFIX,dis.gd
