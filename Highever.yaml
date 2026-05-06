@@ -43,3 +43,9 @@ payload:
   - DOMAIN-SUFFIX,discord.media
   - DOMAIN-SUFFIX,discordcdn.com
   - DOMAIN-SUFFIX,dis.gd
+    # >lovart.ai
+  - DOMAIN-SUFFIX, lovart.ai
+    # >instagram.com
+  - DOMAIN-SUFFIX, instagram.com
+    # >fedex.com
+  - DOMAIN-SUFFIX, fedex.com
