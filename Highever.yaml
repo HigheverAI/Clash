@@ -41,3 +41,5 @@ payload:
   - DOMAIN-SUFFIX,discord.media
   - DOMAIN-SUFFIX,discordcdn.com
   - DOMAIN-SUFFIX,dis.gd
+  # >apexeliving
+  - DOMAIN-SUFFIX,apexeliving.com
