@@ -45,3 +45,7 @@ payload:
   - DOMAIN-SUFFIX,apexeliving.com
   # >bathdepot.com
   - DOMAIN-SUFFIX,bathdepot.com
+  # >flussofaucets.com
+  - DOMAIN-SUFFIX,flussofaucets.com
+  # >buildzoom.com
+  - DOMAIN-SUFFIX,buildzoom.com
