@@ -46,6 +46,6 @@ payload:
   # >bathdepot.com
   - DOMAIN-SUFFIX,bathdepot.com
   # >flussofaucets.com
-  - DOMAIN-SUFFIX,flussofaucets.com
+  - DOMAIN-SUFFIX,www.flussofaucets.com
   # >buildzoom.com
   - DOMAIN-SUFFIX,buildzoom.com
