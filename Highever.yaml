@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,immtele.com
   # homedepot
    - DOMAIN-SUFFIX,homedepot.com
+   - DOMAIN-SUFFIX,homedepot.ca
   # >godaddy
   - DOMAIN-SUFFIX,godaddy.com
   # >duravit.us
