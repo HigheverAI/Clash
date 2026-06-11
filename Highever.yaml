@@ -28,8 +28,6 @@ payload:
   - DOMAIN-SUFFIX,wayfair.com
   # > directpay.irs.gov
   - DOMAIN-SUFFIX, directpay.irs.gov
-  # > limango.de
-  - DOMAIN-SUFFIX, limango.de
   # > oaiusercontent.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   # > www.kohls.com
