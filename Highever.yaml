@@ -50,3 +50,5 @@ payload:
   - DOMAIN-SUFFIX,buildzoom.com
   # >employflorida.com
   - DOMAIN-SUFFIX,employflorida.com
+  # >business.cpsc.gov
+  - DOMAIN-SUFFIX,business.cpsc.gov
