@@ -56,3 +56,4 @@ payload:
   - DOMAIN-SUFFIX,www.bbb.org
   # >www.zillow.com
   - DOMAIN-SUFFIX,www.zillow.com
+  - DOMAIN-SUFFIX,zillow.com
