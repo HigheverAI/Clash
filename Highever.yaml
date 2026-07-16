@@ -54,3 +54,5 @@ payload:
   - DOMAIN-SUFFIX,business.cpsc.gov
   # >www.bbb.org
   - DOMAIN-SUFFIX,www.bbb.org
+  # >www.zillow.com
+  - DOMAIN-SUFFIX,www.zillow.com
