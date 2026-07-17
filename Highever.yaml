@@ -57,3 +57,6 @@ payload:
   # >www.zillow.com
   - DOMAIN-SUFFIX,www.zillow.com
   - DOMAIN-SUFFIX,zillow.com
+  # >www.zillow.com
+  - DOMAIN-SUFFIX,www.jcpenney.com
+  - DOMAIN-SUFFIX,jcpenney.com
