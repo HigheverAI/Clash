@@ -65,5 +65,7 @@ payload:
   - DOMAIN-SUFFIX,www.linkedin.cn
   # >southernshowcaseinteriors.com
   - DOMAIN-SUFFIX,southernshowcaseinteriors.com
+  # >atldesigngroup.com
+  - DOMAIN-SUFFIX,atldesigngroup.com
 
   
