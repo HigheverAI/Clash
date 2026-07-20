@@ -62,4 +62,4 @@ payload:
   - DOMAIN-SUFFIX,jcpenney.com
   # >linkedin.cn
   - DOMAIN-SUFFIX,linkedin.cn
-
+  - DOMAIN-SUFFIX,www.linkedin.cn
