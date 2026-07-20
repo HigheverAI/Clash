@@ -60,3 +60,6 @@ payload:
   # >www.zillow.com
   - DOMAIN-SUFFIX,www.jcpenney.com
   - DOMAIN-SUFFIX,jcpenney.com
+  # >linkedin.cn
+  - DOMAIN-SUFFIX,linkedin.cn
+
