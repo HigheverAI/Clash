@@ -20,6 +20,7 @@ payload:
   # homedepot
    - DOMAIN-SUFFIX,homedepot.com
    - DOMAIN-SUFFIX,homedepot.ca
+   - DOMAIN-SUFFIX,identity.homedepot.com
   # >godaddy
   - DOMAIN-SUFFIX,godaddy.com
   # >duravit.us
