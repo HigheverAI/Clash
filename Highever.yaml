@@ -75,5 +75,3 @@ payload:
   - DOMAIN-SUFFIX,elegancein-plumbing.com
   # >amazon.com
   - DOMAIN-SUFFIX,amazon.com
-  # >aistudio.google.com
-  - DOMAIN-SUFFIX,aistudio.google.com
