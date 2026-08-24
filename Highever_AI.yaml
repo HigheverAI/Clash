@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,withgoogle.com
   # > ippure
   - DOMAIN-SUFFIX,ippure.com
+  - DOMAIN-SUFFIX,chatgpt.site
