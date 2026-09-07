@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,withgoogle.com
   - DOMAIN-SUFFIX,flow.google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleusercontent.com
   # > ippure
   - DOMAIN-SUFFIX,ippure.com
   - DOMAIN-SUFFIX,chatgpt.site
