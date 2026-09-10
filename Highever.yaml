@@ -76,4 +76,4 @@ payload:
   # >amazon.com
   - DOMAIN-SUFFIX,amazon.com
   # >fergusonhome.com
-  - DOMAIN-SUFFIX,fergusonhome.com
+  - DOMAIN-SUFFIX,www.fergusonhome.com
