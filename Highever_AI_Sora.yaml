@@ -12,6 +12,3 @@ payload:
   
   # >bernstein-badshop.de
   - DOMAIN-SUFFIX,bernstein-badshop.de
-  # >godaddy
-  - DOMAIN-SUFFIX,godaddy.com
-  - DOMAIN-SUFFIX,sso.godaddy.com
