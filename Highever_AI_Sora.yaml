@@ -15,3 +15,5 @@ payload:
 
   # >deb.debian.org
   - DOMAIN-SUFFIX,deb.debian.org
+  # >ftp.debian.org
+  - DOMAIN-SUFFIX,ftp.debian.org
