@@ -22,9 +22,6 @@ payload:
    - DOMAIN-SUFFIX,homedepot.ca
    - DOMAIN-SUFFIX,identity.homedepot.com
    - DOMAIN-SUFFIX,supplierhub.homedepot.com
-  # >godaddy
-  - DOMAIN-SUFFIX,godaddy.com
-  - DOMAIN-SUFFIX,sso.godaddy.com
   # >duravit.us
   - DOMAIN-SUFFIX,duravit.us
   # >wayfair.com
