@@ -12,3 +12,6 @@ payload:
   
   # >bernstein-badshop.de
   - DOMAIN-SUFFIX,bernstein-badshop.de
+
+  # >deb.debian.org
+  - DOMAIN-SUFFIX,deb.debian.org
