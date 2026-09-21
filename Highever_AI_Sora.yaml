@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   
   # >bernstein-badshop.de
-  - DOMAIN-SUFFIX,bernstein-badshop.de、
+  - DOMAIN-SUFFIX,bernstein-badshop.de
   
   # >ftp.debian.org
   - DOMAIN-SUFFIX,ftp.debian.org
