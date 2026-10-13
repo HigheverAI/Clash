@@ -77,5 +77,3 @@ payload:
   - DOMAIN-SUFFIX,www.fergusonhome.com
   # >muse.ai
   - DOMAIN-SUFFIX,muse.ai
-  # >bol.com
-  - DOMAIN-SUFFIX,bol.com
