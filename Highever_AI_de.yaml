@@ -3,8 +3,5 @@ payload:
   - DOMAIN-SUFFIX,limango.de
   # > home24.de
   - DOMAIN-SUFFIX,home24.de
-  # >godaddy
-  - DOMAIN-SUFFIX,godaddy.com
-  - DOMAIN-SUFFIX,sso.godaddy.com
   # >bol.com
   - DOMAIN-SUFFIX,bol.com
