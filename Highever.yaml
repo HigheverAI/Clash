@@ -84,3 +84,13 @@ payload:
   # >godaddy
   - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,sso.godaddy.com
+  # >play
+- DOMAIN,play.google.com
+- DOMAIN,android.apis.google.com
+- DOMAIN,dl.google.com
+- DOMAIN,dl-ssl.google.com
+- DOMAIN-SUFFIX,gvt1.com
+- DOMAIN-SUFFIX,ggpht.com
+- DOMAIN-SUFFIX,whatsapp.com
+- DOMAIN-SUFFIX,whatsapp.net
+
