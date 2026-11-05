@@ -77,6 +77,10 @@ payload:
   - DOMAIN-SUFFIX,www.fergusonhome.com
   # >muse.ai
   - DOMAIN-SUFFIX,muse.ai
+  - DOMAIN-SUFFIX,api.muse.ai
+  - DOMAIN-SUFFIX,platform.muse.ai
+  - DOMAIN-SUFFIX,security.muse.ai
+  - DOMAIN-SUFFIX,introducing.muse.ai
   # >godaddy
   - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,sso.godaddy.com
