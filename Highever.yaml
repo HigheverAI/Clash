@@ -91,6 +91,3 @@ payload:
   - DOMAIN,dl-ssl.google.com
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,ggpht.com
-  - DOMAIN-SUFFIX,whatsapp.com
-  - DOMAIN-SUFFIX,whatsapp.net
-
