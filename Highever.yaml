@@ -81,9 +81,6 @@ payload:
   - DOMAIN-SUFFIX,platform.muse.ai
   - DOMAIN-SUFFIX,security.muse.ai
   - DOMAIN-SUFFIX,introducing.muse.ai
-  # >godaddy
-  - DOMAIN-SUFFIX,godaddy.com
-  - DOMAIN-SUFFIX,sso.godaddy.com
   # >play
   - DOMAIN,play.google.com
   - DOMAIN,android.apis.google.com
