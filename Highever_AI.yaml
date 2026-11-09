@@ -11,6 +11,8 @@ payload:
   # > ippure
   - DOMAIN-SUFFIX,ippure.com
   - DOMAIN-SUFFIX,chatgpt.site
-
   # > aistudio
   - DOMAIN-SUFFIX,ai.studio
+  # >godaddy
+  - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,sso.godaddy.com
