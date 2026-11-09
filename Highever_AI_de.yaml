@@ -5,3 +5,7 @@ payload:
   - DOMAIN-SUFFIX,home24.de
   # >bol.com
   - DOMAIN-SUFFIX,bol.com
+  # >godaddy
+  - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,sso.godaddy.com
+  - DOMAIN-SUFFIX,dcc.godaddy.com
