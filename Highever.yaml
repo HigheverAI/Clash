@@ -18,10 +18,10 @@ payload:
     # >immtele
   - DOMAIN-SUFFIX,immtele.com
   # homedepot
-   - DOMAIN-SUFFIX,homedepot.com
-   - DOMAIN-SUFFIX,homedepot.ca
-   - DOMAIN-SUFFIX,identity.homedepot.com
-   - DOMAIN-SUFFIX,supplierhub.homedepot.com
+  - DOMAIN-SUFFIX,homedepot.com
+  - DOMAIN-SUFFIX,homedepot.ca
+  - DOMAIN-SUFFIX,identity.homedepot.com
+  - DOMAIN-SUFFIX,supplierhub.homedepot.com
   # >duravit.us
   - DOMAIN-SUFFIX,duravit.us
   # >wayfair.com
@@ -91,5 +91,4 @@ payload:
   # >linkedin.com
   - DOMAIN,linkedin.com
   # >lovart.ai
-  - DOMAIN,lovart.ai
-  - DOMAIN,www.lovart.ai
+  - DOMAIN-SUFFIX,lovart.ai
