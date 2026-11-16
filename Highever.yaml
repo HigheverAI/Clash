@@ -90,3 +90,5 @@ payload:
   - DOMAIN-SUFFIX,ggpht.com
   # >linkedin.com
   - DOMAIN,linkedin.com
+  # >lovart.ai
+  - DOMAIN,lovart.ai
