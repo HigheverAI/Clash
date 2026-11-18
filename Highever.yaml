@@ -92,3 +92,5 @@ payload:
   - DOMAIN,linkedin.com
   # >lovart.ai
   - DOMAIN-SUFFIX,lovart.ai
+  # >moen.com
+  - DOMAIN-SUFFIX,moen.com
